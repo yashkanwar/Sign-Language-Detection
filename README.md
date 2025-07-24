@@ -26,3 +26,8 @@ This project aims to detect and interpret sign language gestures using machine l
 - TensorFlow/Keras (for machine learning models)
 - Streamlit (for web interface, if applicable)
 - Other dependencies listed in `requirements.txt`
+
+## 👥 Co-Created By
+
+- [@yashkanwar](https://github.com/yashkanwar)  
+- [@siddharthaglesar](https://github.com/siddharthaglesar)
